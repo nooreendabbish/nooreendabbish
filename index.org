@@ -1,0 +1,8 @@
+#+TITLE: 1000 Reasons Why You Should Have Switched to Org 8 Years Ago
+
+* This site was created as a .org
+
+* I use orgmode
+
+* Also, there is a cool text editor called Emacs
+
